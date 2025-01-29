@@ -34,7 +34,7 @@ answers = [
 
   #Prompt the user for their question.
 
-question = input("Please ask me a general or very specific yes or no question.")
+question = input("Please ask me a general or very specific yes or no question.                ")
   #Answer question randomly with one of the options from your earlier list.
 
 response = random.choice(answers)
